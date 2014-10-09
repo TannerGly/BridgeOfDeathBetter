@@ -1,0 +1,11 @@
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\bin\Debug\BridgeOfDeathBetter.exe.config
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\bin\Debug\BridgeOfDeathBetter.exe
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\bin\Debug\BridgeOfDeathBetter.pdb
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\bin\Debug\BridgeOfDeathBetter.xml
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.Form1.resources
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.Resources.resources
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.vbproj.GenerateResource.Cache
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.exe
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.xml
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.pdb
+H:\GitHub\BridgeOfDeathBetter\BridgeOfDeathBetter\obj\Debug\BridgeOfDeathBetter.vbprojResolveAssemblyReference.cache
